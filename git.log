@@ -1,0 +1,75 @@
+   13  sudo apt install git
+   14  git init
+   16  git config --global user.name "Alex Urra"
+   17  git config --global user.email "alurpe@inspalamos.cat"
+   18  git add web.html
+   19  git status
+   20  less ~/.gitconfig4
+   21  less ~/.gitconfig 4
+   26  git add hola.txt 
+   27  git status
+   28  git branch
+   29  git branch -c web
+   30  git branch web
+   31  git create branch web
+   32  git --help
+   33  git branch create web
+   34  git branch --hep
+   36  git status
+   37  git init
+   38  git status
+   45  cd alexup220.github.io/
+   47  git status
+   48  git branch web
+   49  git switch web 
+   50  git switch -
+   52  git branch -d web 
+   53  git switch-
+   54  git switch -
+   55  git sync fork
+   56  git
+   59  git branch
+   60  git pull --all
+   61  git status
+   62  git switch 
+   63  git switch -
+   64  git branch
+   65  git branch switch-
+   66  git branch
+   67  git switch -d switch- 
+   68  git branch
+   69  git branch -d switch- 
+   70  git switch -
+   71  git branch
+   72  git pull -all
+   73  git pull --all
+   74  git branch
+   75  git status
+   76  git branch
+   77  git pull
+   78  git status
+   79  git branch
+   80  git switch web
+   81  git pull
+   82  git branch
+   83  git switch main
+   84  git status
+   86  git switch -
+   87  git status
+   95  cd 01-git-basics-Alexup220/
+   96  git branch
+   97  git swithc -
+   98  git switch -
+   99  git checkout web
+  100  git merge main
+  101  git checkout main
+  102  git rm -r .
+  103  git status
+  104  git restore --staged README.md
+  105  git restore README.md 
+  106  git status
+  107  git rm -h
+  108  git commit -m 'Esborro tot a la branca main menys README.md'
+  109  git status
+  110  git push
+  111  history | grep git > git.log
