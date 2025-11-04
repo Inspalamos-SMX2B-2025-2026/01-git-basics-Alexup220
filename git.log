@@ -1,16 +1,3 @@
-<html>
-      <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Exercici 1</title>
-
-    <!-- Include Bootstrap HTML, CSS and JS library -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-      <link href="style.css">
-  </head>
-    <body>
-        <h1>Exercici 1</h1>
-        <pre>
    13  sudo apt install git
    14  git init
    16  git config --global user.name "Alex Urra"
@@ -86,8 +73,3 @@
   109  git status
   110  git push
   111  history | grep git > git.log
-</pre>
-    </body>
-</html><pre>
-</pre>
-
